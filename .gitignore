@@ -47,3 +47,7 @@ ishopdb
 
 
 .exercism
+# Python
+.pytest_cache
+.vscode
+__pycache__
